@@ -35,7 +35,7 @@ Test for Back End Developer: Isam Samsul Arip, Laravel application based on API 
 1. Clone Project - 
 
 ```bash
-git clone https://github.com/isamsamsularip/crudandjwtlaravelisam.git
+git clone https://github.com/isamsamsularip/crudauthjwtlaravelisam.git
 ```
 1. Go to the project drectory by `cd Laravel-Basic-CRUD-API` & Run the
 2. Create `.env` file & Copy `.env.example` file to `.env` file
